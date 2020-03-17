@@ -1,5 +1,6 @@
 #include "GameManager.h"
 
+
 int main(int argc, char* argv[]) {
 
 	ProyectoFinal::GameManager* game = ProyectoFinal::GameManager::Instance();

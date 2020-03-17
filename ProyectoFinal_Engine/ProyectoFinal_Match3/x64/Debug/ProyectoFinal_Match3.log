@@ -1,71 +1,11 @@
-﻿  AnimatedTexture.cpp
-  Arrive.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  AssetManager.cpp
-  AudioManager.cpp
-  BoxCollider.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Collider.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Enemy.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Evade.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Flee.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  GameEntity.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\GameEntity.cpp(58,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  GameManager.cpp
-  Graphics.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\GameEntity.cpp(63,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  Hide.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\Graphics.cpp(67,13): warning C4305: 'return': truncation from 'int' to 'bool'
-  ini.cpp
-  INIReader.cpp
-  InputManager.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Interpose.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  main.cpp
-  Obstacle.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Offset.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+﻿  LuaManager.cpp
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(43,8): warning C4101: 'x': unreferenced local variable
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(57,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'lua_Number', possible loss of data
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(77,10): warning C4244: 'return': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(81,10): warning C4244: 'return': conversion from 'lua_Number' to 'unsigned __int64', possible loss of data
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(93,10): warning C4244: 'return': conversion from 'lua_Number' to 'float', possible loss of data
+  UTFManager.cpp
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(97,10): warning C4244: 'return': conversion from 'lua_Number' to 'unsigned __int64', possible loss of data
   Generating Code...
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Compiling...
-  Path.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\Enemy.cpp(473): warning C4715: 'Enemy::getState': not all control paths return a value
-  PhysEntity.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Player.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\Player.cpp(13,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\Player.cpp(14,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\Player.cpp(187,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Pursuit.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\Player.cpp(188,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  ScreenManager.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Seek.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  StackAllocator.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  StartScreen.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\StackAllocator.cpp(8,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\StartScreen.cpp(318,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Texture.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\StartScreen.cpp(321,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Timer.cpp
-  Wall.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Wander.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Generating Code...
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\Player.cpp(630): warning C4715: 'Player::getState': not all control paths return a value
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\UTFManager.cpp(127,29): warning C4101: 'e': unreferenced local variable
   ProyectoFinal_Match3.vcxproj -> C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\x64\Debug\ProyectoFinal_Match3.exe
