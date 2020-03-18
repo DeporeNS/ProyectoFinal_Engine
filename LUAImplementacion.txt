@@ -1,1 +1,0 @@
-Voy a implementar el LUA para agregar ciertos gameobjects a la escena con cierta posicion y forma.
