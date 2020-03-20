@@ -1,3 +1,5 @@
+// Codigo fuente: https://github.com/Knothe/GameEngine/tree/master/GameEngine/GameEngine
+
 #include "UTFManager.h"
 #include <codecvt>
 #include <io.h>
@@ -147,3 +149,5 @@ namespace ProyectoFinal {
 		return converterX.to_bytes(string);
 	}
 }
+
+// Codigo fuente: https://github.com/Knothe/GameEngine/tree/master/GameEngine/GameEngine

@@ -4,10 +4,10 @@
 #include "Tiles.h"
 
 // Robot Tile
-class MiniArmy : public Tiles {
+class Triangle : public Tiles {
 public:
-	MiniArmy(int index); // constructor
-	~MiniArmy(); // destructor
+	Triangle(int index); // constructor
+	~Triangle(); // destructor
 };
 
 #endif // _MINIARMY_H

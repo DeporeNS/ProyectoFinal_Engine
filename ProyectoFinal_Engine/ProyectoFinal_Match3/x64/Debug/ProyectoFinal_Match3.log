@@ -1,11 +1,15 @@
-﻿  LuaManager.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(43,8): warning C4101: 'x': unreferenced local variable
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(57,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'lua_Number', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(77,10): warning C4244: 'return': conversion from 'lua_Number' to 'float', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(81,10): warning C4244: 'return': conversion from 'lua_Number' to 'unsigned __int64', possible loss of data
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(93,10): warning C4244: 'return': conversion from 'lua_Number' to 'float', possible loss of data
+﻿  GameManager.cpp
+  Logger.cpp
+  Lua.cpp
+  main.cpp
+  ScreenManager.cpp
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\Lua.cpp(200,15): warning C4101: 'b': unreferenced local variable
+  StartScreen.cpp
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\MathHelper.h(53,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\StartScreen.cpp(318,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   UTFManager.cpp
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\LuaManager.cpp(97,10): warning C4244: 'return': conversion from 'lua_Number' to 'unsigned __int64', possible loss of data
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\StartScreen.cpp(321,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Generating Code...
-C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\UTFManager.cpp(127,29): warning C4101: 'e': unreferenced local variable
+C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\ProyectoFinal_Match3\UTFManager.cpp(129,29): warning C4101: 'e': unreferenced local variable
   ProyectoFinal_Match3.vcxproj -> C:\Users\jacms\OneDrive\Documentos\GitHub\ProyectoFinal_Engine\ProyectoFinal_Engine\x64\Debug\ProyectoFinal_Match3.exe

@@ -4,10 +4,10 @@
 #include "Tiles.h"
 
 // Head Tile
-class Head : public Tiles {
+class Circle : public Tiles {
 public:
-	Head(int index); // constructor
-	~Head(); // destructor
+	Circle(int index); // constructor
+	~Circle(); // destructor
 };
 
 #endif // _HEAD_H

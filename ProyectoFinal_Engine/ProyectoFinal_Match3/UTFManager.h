@@ -1,3 +1,5 @@
+// Codigo fuente: https://github.com/Knothe/GameEngine/tree/master/GameEngine/GameEngine
+
 #pragma once
 #include <iostream>
 
@@ -41,3 +43,5 @@ namespace ProyectoFinal {
 
 	};
 }
+
+// Codigo fuente: https://github.com/Knothe/GameEngine/tree/master/GameEngine/GameEngine

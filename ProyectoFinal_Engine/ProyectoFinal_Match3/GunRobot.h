@@ -4,10 +4,10 @@
 #include "Tiles.h"
 
 // Robot Tile
-class GunRobot : public Tiles {
+class Rectangle : public Tiles {
 public:
-	GunRobot(int index); // constructor
-	~GunRobot(); // destructor
+	Rectangle(int index); // constructor
+	~Rectangle(); // destructor
 };
 
 #endif // _GUNROBOT_H

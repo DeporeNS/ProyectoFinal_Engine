@@ -9,7 +9,7 @@
 using namespace ProyectoFinal;
 
 // Clase padre de las tiles
-class Tiles : public GameEntity {
+class Primitives : public GameEntity {
 public:
 	// tipo de tile
 	enum class TilesType {
@@ -54,9 +54,9 @@ protected:
 	virtual void RenderOverState();
 
 public:
-	Tiles(int index); // constructor
-	Tiles();
-	virtual ~Tiles(); // destructor
+	Primitives(int index); // constructor
+	Primitives();
+	virtual ~Primitives(); // destructor
 
 	void changeState(int state); // funcion para cambiar el estado
 
