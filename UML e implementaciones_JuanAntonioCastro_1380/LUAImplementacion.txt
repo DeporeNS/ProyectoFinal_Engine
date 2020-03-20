@@ -1,3 +1,5 @@
+Juan Antonio Castro Mojica 13980
+
 El lua sirve para crear primitivas simples y texturas  de enemigos y jugadores, para moverlas.
 Las texturas que son de la entidad de physics tienen hitboxes.
 Hay primitivas de rectangulo, circulo y triangulo.
@@ -13,3 +15,5 @@ Hay un screen manager y se pueden hacer muchas screens
 Tiene un sistema para hacer pausa y que no se reinicie cada vez que cambias de pantalla.
 Tiene manejo de UTF-8 y UTF-16 para poder poner caracteres especiales en consola
 Los gameobjects son identificados por medio de una lista map.
+Se pueden imprimir string con diferentes fuentes.
+Puedes poner texturas "animadas" por medio de cargar diferentes transiciones de un sprite y cambiarlos cada ciertos frames.
