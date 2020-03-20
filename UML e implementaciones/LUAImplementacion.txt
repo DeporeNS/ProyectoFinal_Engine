@@ -1,1 +1,15 @@
-Voy a implementar el LUA para agregar ciertos gameobjects a la escena con cierta posicion y forma.
+El lua sirve para crear primitivas simples y texturas  de enemigos y jugadores, para moverlas.
+Las texturas que son de la entidad de physics tienen hitboxes.
+Hay primitivas de rectangulo, circulo y triangulo.
+Hay modelos de enemigos y sprites.
+Se pueden poner archivos de musica y de efectos de sonido.
+Las primitivas y enemigos tienne diferentes estados para cualdo las seleccionas o les pasas el mouse por encima se pueda ver.
+Estan incluidos varios steering behaviours.
+Hay un sistema de carga de ini con el cual puedes poner el tamaño de pantalla y la memoria que vas a alijar.
+Hay stack allocator.
+Hay un log que te guarda los errores.
+Hay manejo de errores en cargas y otros aspectos.
+Hay un screen manager y se pueden hacer muchas screens
+Tiene un sistema para hacer pausa y que no se reinicie cada vez que cambias de pantalla.
+Tiene manejo de UTF-8 y UTF-16 para poder poner caracteres especiales en consola
+Los gameobjects son identificados por medio de una lista map.
